@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MedivhV
-- 👀 I’m interested in Cloud Solution Engineering
-- 🌱 I’m currently learning Computational Mathematics
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Medivhvvv
+- 👀 I
+- 🌱 I'm currently majoring in Computational Mathematics, Combinatorics and Optimization, along with Physics and Pure Mathematics minors
 - 📫 How to reach me fengtulei@gmail.com
 
 <!---
